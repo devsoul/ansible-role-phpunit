@@ -1,0 +1,8 @@
+---
+- name: Install PHPUnit.
+  become: yes
+  get_url:
+    url: https://phar.phpunit.de/phpunit.phar
+    dest: /usr/local/bin/phpunit
+    mode: 0755
+    force: yes
