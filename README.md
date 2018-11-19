@@ -1,5 +1,6 @@
 PHPUnit Ansible role
 =========
+[![Build Status](https://travis-ci.com/devsoul/ansible-role-phpunit.svg?branch=master)](https://travis-ci.com/devsoul/ansible-role-phpunit)
 
 If you are a PHP developer and you want to install the latest version PHPUnit.
 
